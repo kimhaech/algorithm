@@ -1,4 +1,4 @@
-// Example program
+// https://www.acmicpc.net/problem/1152
 #include <iostream>
 #include <string>
 
